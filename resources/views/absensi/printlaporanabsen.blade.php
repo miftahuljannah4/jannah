@@ -132,7 +132,7 @@
                     }
                 ?>
                     <td>
-                        <span style="color:{{ $h[0] > $item->jam_masuk ? 'red' : '' }}">{{ !empty($h[0]) ? $h[0] : 'null' }}</span><br>
+                        <span style="color:{{ $h[0] > $item->jam_masuk ? 'red' : '' }}" > {{ !empty( $h[0]) ? $h[0] : 'null' }}</span><br>
                         <span style="color:{{ $h[1] < $item->jam_pulang ? 'red' : '' }}">{{ $h[1] }}</span><br>
                     </td>
                     <?php

@@ -112,7 +112,7 @@
                             <div class="col mb-0">
                                 <label for="nik" class="form-label">ID DIVISI</label>
                                 <input type="text" id="id_pd" name="id_pd" class="form-control"
-                                    placeholder="ID Perangkat Daerah" />
+                                    placeholder="ID DIVISI" />
                             </div>
                         </div>
                         </div>
@@ -121,7 +121,7 @@
                             <div class="col mb-0">
                                 <label for="nama_pd" class="form-label">NAMA DIVISI</label>
                                 <input type="text" id="nama_pd" name="nama_pd" class="form-control"
-                                    placeholder="Perangkat Daerah" />
+                                    placeholder="DIVISI" />
                             </div>
                         </div>
                         </div>
